@@ -267,8 +267,6 @@ B
 chapter-15/pom.xml,d\e\ded3927f7f2be2077c7a11c28fbea898acf6eec7
 B
 chapter-19/pom.xml,5\5\55026ae1e0f45b034bbde6e30961f3aa4f66f14e
-y
-Ichapter-21/src/main/java/com/apress/demo/springblog/config/WebConfig.java,0\4\0412c24d9e4cf676ea10e9c3803f722d99a21263
 B
 chapter-18/pom.xml,f\6\f636fdfd9edb237558e1c92f485a45b5d4a9b2bc
 ª
@@ -291,8 +289,6 @@ D
 chapter-18/README.md,a\0\a0ae675e703bf2f42d1c5f5d1a153fa1a94b9606
 B
 chapter-17/pom.xml,0\d\0dc1bff0b9837e2b405b65b64f00c431e3a505f1
-ƒ
-Schapter-21/src/test/java/com/apress/demo/springblog/SpringblogApplicationTests.java,d\4\d422196b2db34efa107df397785e88e9c486362b
 N
 chapter-17/conditional/pom.xml,f\7\f7da7ce68e2838474c33511ea1a794e6913d1ece
 q
@@ -409,3 +405,5 @@ gchapter-19/springboot-groovy-demo/src/main/groovy/com/apress/springbootgroovyde
 gchapter-19/springboot-groovy-demo/src/main/groovy/com/apress/springbootgroovydemo/HomeController.groovy,f\3\f37ef44cc88a6292353234bbe4a8279978f9170d
 ¨
 xchapter-19/springboot-groovy-demo/src/main/groovy/com/apress/springbootgroovydemo/SpringbootGroovyDemoApplication.groovy,3\c\3c3706a63a5ce16cffe54d8a38fd81b2e26efe38
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
